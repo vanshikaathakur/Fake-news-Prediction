@@ -1,8 +1,10 @@
 📰 Fake News Prediction
 
+
 This project is a machine learning pipeline that uses various classifiers to predict whether a given news article is "real" or "fake." The model is built and tested within a Jupyter Notebook.
 
 🚀 Getting Started
+
 
 Follow these steps to get the project up and running on your local machine.
 
@@ -22,6 +24,7 @@ Run all the cells sequentially to perform the data cleaning, model training, and
 
 🧠 Models Used
 
+
 The notebook trains and evaluates several popular classification algorithms to determine the best performer:
 
 Logistic Regression
@@ -33,6 +36,7 @@ Gradient Boosting Classifier
 Random Forest Classifier
 
 📈 Project Workflow
+
 
 The notebook guides you through the entire machine learning process:
 
